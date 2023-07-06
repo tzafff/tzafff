@@ -3,13 +3,9 @@
 
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...HyperLedger Fabric
-- 🌱 I’m currently learning ...Go,Javascript,Docker.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ...European Dynamics
+- 🌱 I’m currently learning ...Solidity.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...tzaferischris@gmail.com
+- 📫 How to reach me: ...christzaf99@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
 -->
