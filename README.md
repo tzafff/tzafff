@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tzafff&label=Profile%20views&color=0e75b6&style=flat" alt="tzafff" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tzaffff" target="blank"><img src="https://img.shields.io/twitter/follow/@tzaffff?logo=twitter&style=for-the-badge" alt="tzaffff" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tzaffff" target="blank"><img src="https://img.shields.io/twitter/follow/tzaffff?logo=twitter&style=for-the-badge" alt="tzaffff" /></a> </p>
 
 - 🔭 I’m currently working on **European Dynamics**
 
