@@ -8,7 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/tzaffff" target="blank"><img src="https://img.shields.io/twitter/follow/tzaffff?logo=twitter&style=for-the-badge" alt="tzaffff" /></a> </p>
 
-<p align="left"> Portofolio <a href="https://ctzaf-portfolio.vercel.app/" target="blank"></a> </p>
+<p align="left">
+  <a href="https://ctzaf-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20my-Portfolio-blue?style=for-the-badge" alt="Visit my Portfolio" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **European Dynamics**
 
