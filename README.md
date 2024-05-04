@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/tzaffff" target="blank"><img src="https://img.shields.io/twitter/follow/tzaffff?logo=twitter&style=for-the-badge" alt="tzaffff" /></a> </p>
 
+<p align="left"> Portofolio <a href="https://ctzaf-portfolio.vercel.app/" target="blank"></a> </p>
+
 - 🔭 I’m currently working on **European Dynamics**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Foundry**
 
 - 📫 How to reach me **christzaf99@gmail.com**
 
