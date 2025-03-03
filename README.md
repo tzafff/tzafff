@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Accenture Greece
+- 🔭 I’m currently working on **Accenture Greece**
 
 - 🌱 I’m currently learning **Foundry**
 
